@@ -1,0 +1,3 @@
+# myproject
+This is my first project posted on my github just for exploring and learning how to post my personal project here. More are cominig.... 
+Thank you for landing on my Github! and I hope you have a wonderful day! Happy Learning! 
